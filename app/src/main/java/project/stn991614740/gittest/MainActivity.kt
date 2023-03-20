@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //Melvin was here!!
-        //Dino was here with Melvin papi!!!
+        //Dino was here with Melvin!!!
     }
 
     fun testtester(){
